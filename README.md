@@ -65,6 +65,7 @@ I hold a MBA in International Hospitality Management from Cornell/ESSEC and a BS
   * [Foundations of Data Science](https://coursera.org/share/9db1597f6bae3c0e2ea73a57c3785c8f)
   * [The Power of Statistics](https://coursera.org/share/12526ab43a094384f915f0290437c081)
   * [Get Started with Python](https://coursera.org/share/9de375bb484ccd995820cf5f4ab1de65)
+  * [The Nuts and Bolts of Machine Learning](https://coursera.org/share/fd4986b06ad342e931a5466d1361d9dd)
 
 <!---
 unfungibleclone/unfungibleclone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
